@@ -19,7 +19,7 @@ fastapi==0.115.6
 filelock==3.17.0
 fsspec==2023.6.0
 gmpy2==2.1.2
-h11==0.14.0
+h11==0.16.0
 humanfriendly==10.0
 humanize==4.7.0
 idna==3.4
