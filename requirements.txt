@@ -38,7 +38,7 @@ packaging==24.2
 pip==23.0.1
 pluggy==1.2.0
 plumbum==1.8.2
-protobuf==4.22.3
+protobuf==4.25.8
 pycparser==2.21
 pydantic==2.10.3
 pyOpenSSL==23.2.0
